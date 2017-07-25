@@ -1,25 +1,15 @@
-C:\Users\grzes\Source\Repos\FindUsAll\FindUsAll\bin\Debug\FindUsAll.exe.config
-C:\Users\grzes\Source\Repos\FindUsAll\FindUsAll\bin\Debug\FindUsAll.exe
-C:\Users\grzes\Source\Repos\FindUsAll\FindUsAll\bin\Debug\FindUsAll.pdb
-C:\Users\grzes\Source\Repos\FindUsAll\FindUsAll\obj\Debug\FindUsAll.csprojResolveAssemblyReference.cache
-C:\Users\grzes\Source\Repos\FindUsAll\FindUsAll\obj\Debug\FindUsAll.Form1.resources
-C:\Users\grzes\Source\Repos\FindUsAll\FindUsAll\obj\Debug\FindUsAll.Properties.Resources.resources
-C:\Users\grzes\Source\Repos\FindUsAll\FindUsAll\obj\Debug\FindUsAll.csproj.GenerateResource.Cache
-C:\Users\grzes\Source\Repos\FindUsAll\FindUsAll\obj\Debug\FindUsAll.csproj.CoreCompileInputs.cache
-C:\Users\grzes\Source\Repos\FindUsAll\FindUsAll\obj\Debug\FindUsAll.exe
-C:\Users\grzes\Source\Repos\FindUsAll\FindUsAll\obj\Debug\FindUsAll.pdb
-C:\Users\grzes\Source\Repos\FindUsAll - old\FindUsAll\bin\Debug\FindUsAll.exe.config
-C:\Users\grzes\Source\Repos\FindUsAll - old\FindUsAll\bin\Debug\FindUsAll.exe
-C:\Users\grzes\Source\Repos\FindUsAll - old\FindUsAll\bin\Debug\FindUsAll.pdb
-C:\Users\grzes\Source\Repos\FindUsAll - old\FindUsAll\obj\Debug\FindUsAll.csprojResolveAssemblyReference.cache
-C:\Users\grzes\Source\Repos\FindUsAll - old\FindUsAll\obj\Debug\FindUsAll.Form1.resources
-C:\Users\grzes\Source\Repos\FindUsAll - old\FindUsAll\obj\Debug\FindUsAll.Properties.Resources.resources
-C:\Users\grzes\Source\Repos\FindUsAll - old\FindUsAll\obj\Debug\FindUsAll.csproj.GenerateResource.Cache
-C:\Users\grzes\Source\Repos\FindUsAll - old\FindUsAll\obj\Debug\FindUsAll.exe
-C:\Users\grzes\Source\Repos\FindUsAll - old\FindUsAll\obj\Debug\FindUsAll.pdb
-C:\Users\grzes\Source\Repos\FindUsAll - old\FindUsAll\bin\Debug\FindUsAll.exe.manifest
-C:\Users\grzes\Source\Repos\FindUsAll - old\FindUsAll\bin\Debug\FindUsAll.application
-C:\Users\grzes\Source\Repos\FindUsAll - old\FindUsAll\obj\Debug\FindUsAll.TrustInfo.xml
-C:\Users\grzes\Source\Repos\FindUsAll - old\FindUsAll\obj\Debug\FindUsAll.exe.manifest
-C:\Users\grzes\Source\Repos\FindUsAll - old\FindUsAll\obj\Debug\FindUsAll.application
-C:\Users\grzes\Source\Repos\FindUsAll - old\FindUsAll\obj\Debug\FindUsAll.csproj.CoreCompileInputs.cache
+C:\Users\grzes\Source\Repos\FightToWin\FindUsAll\bin\Debug\FindUsAll.exe.config
+C:\Users\grzes\Source\Repos\FightToWin\FindUsAll\bin\Debug\FindUsAll.exe.manifest
+C:\Users\grzes\Source\Repos\FightToWin\FindUsAll\bin\Debug\FindUsAll.application
+C:\Users\grzes\Source\Repos\FightToWin\FindUsAll\bin\Debug\FindUsAll.exe
+C:\Users\grzes\Source\Repos\FightToWin\FindUsAll\bin\Debug\FindUsAll.pdb
+C:\Users\grzes\Source\Repos\FightToWin\FindUsAll\obj\Debug\FindUsAll.csprojResolveAssemblyReference.cache
+C:\Users\grzes\Source\Repos\FightToWin\FindUsAll\obj\Debug\FindUsAll.Form1.resources
+C:\Users\grzes\Source\Repos\FightToWin\FindUsAll\obj\Debug\FindUsAll.Properties.Resources.resources
+C:\Users\grzes\Source\Repos\FightToWin\FindUsAll\obj\Debug\FindUsAll.csproj.GenerateResource.Cache
+C:\Users\grzes\Source\Repos\FightToWin\FindUsAll\obj\Debug\FindUsAll.csproj.CoreCompileInputs.cache
+C:\Users\grzes\Source\Repos\FightToWin\FindUsAll\obj\Debug\FindUsAll.TrustInfo.xml
+C:\Users\grzes\Source\Repos\FightToWin\FindUsAll\obj\Debug\FindUsAll.exe.manifest
+C:\Users\grzes\Source\Repos\FightToWin\FindUsAll\obj\Debug\FindUsAll.application
+C:\Users\grzes\Source\Repos\FightToWin\FindUsAll\obj\Debug\FindUsAll.exe
+C:\Users\grzes\Source\Repos\FightToWin\FindUsAll\obj\Debug\FindUsAll.pdb
